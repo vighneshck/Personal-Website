@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="styles1.css">
+		<title>Home</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<script src="java.js"></script>
+	</head>
+	<body id="head">
+		<div class="header">
+			<h1 class="name">Vighnesh Chenthil Kumar</h1>
+		</div>
+		<marquee id="three">WELCOME!!!</marquee><br><br>
+		<div class="nav">
+			<ul>
+				<li><a href="index.html" target="_parent">Home</a></li>
+				<li><a href="early_life.html" target="_parent">Early Life</a></li>
+				<li><a href="teenage.html" target="_parent">Teenage</a></li>
+				<li><a href="interests.html" target="_parent">Interests</a></li>
+				<li><a href="gallery.html" target="_parent">Photo Gallery</a></li>
+				<li><a href="contact.html" target="_parent">Contact Me</a></li>
+			</ul>
+		</div>
+		<div class="section">
+			<br><h2>About Myself</h2>
+			<p id="new"><img src="vighnesh.jpg" alt="This image cannot be displayed" title="Me!!" id="one"><img src="vighnesh8.jpg" alt="This image cannot be displayed" title="Me Again!!" id="two"><br><br><br>Hey, My name is <strong>Vighnesh Chenthil Kumar</strong>. I am an 18 year old boy, currently pursuing Computer Science and Engineering in International Institute of Information Technology, Hyderabad. Although Indian by birth, I have spent my whole life in the Middle East. I currently reside in Qatar, which happens to be a rather extravagant country. My father, Chenthil Kumar, works as a Senior Planning Engineer in QatarGas and my mother, Mayadevi, works as an ORACLE concultant in United Development Company. I have a younger sister, Vrinda, who is currently studying in the 10<sup>th</sup> grade in DPS-MIS. I can proudly say that I have lived a rather eventful life for the last 18 years, and I would like to share it with the world. Interesting enough? Read on to know more about me.<br><br><br>
+			</p>
+			<div class="clear"></div>
+		</div><br><br><br><br><br><br>
+		<div class="footer">
+                        <p>&copy; 2015 International Institute of Information Technology - Hyderabad. All rights reserved.
+                        </p>
+		</div>
+	</body>
+</html>
+ 
+			
+			
+		 
+				

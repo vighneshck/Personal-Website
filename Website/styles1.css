@@ -1,0 +1,236 @@
+@font-face 
+{
+	font-family: Anke;
+	src: url(anke.ttf);
+}
+@keyframes effect 
+{
+    	0%   {color: red;}
+    	25%  {color: orange;}
+    	50%  {color: yellow;}
+    	75%  {color: lime;}
+	100%  {color: aqua;}
+}
+
+body
+{
+	background-image:url("back10.jpg");
+	margin:0.8%;
+}
+div.header h1.name
+{
+	text-align:center;
+	font-family:Anke;
+	color:red;
+	font-size:300%;
+	animation-name: effect;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+}
+marquee#three
+{
+	text-transform:uppercase;
+	font-size:210%;
+	color:white;
+}
+div.nav ul
+{
+	margin:0%;
+	height:100%;
+	background-color:white;
+	color:black;
+	font-size:159%;
+	font-family:Anke;
+	border-radius:15px;
+}
+div.nav ul li
+{
+	position:relative;	
+	display:inline-block;
+	list-style-type:none;
+	padding-right:5.5%;
+}
+a:link
+{
+	text-decoration:none;
+	background-color:white;
+	color:black;
+}
+a:visited
+{
+	text-decoration:none;
+	background-color:white;
+	color:black;
+}
+a:hover
+{
+	font-size:100%;
+	background-color:black;
+	color:white;
+	font-family:Anke;
+}
+div.section h2
+{
+	font-family:Anke;
+	color:white;
+	font-size:180%;
+}
+div.section img#one
+{
+	float:left;
+	padding:0.75%;
+	width:22.5%;
+	height:22.5%;
+}
+div.section img#two
+{
+	float:right;
+	padding:0.75%;
+	width:22.5%;
+	height:22.5%;
+}
+div.section p
+{
+	color:white;
+}
+div.footer
+{
+	color:white;
+	font-size:72%;
+	text-align:center;
+}
+div.section img.right
+{
+	float:right; 
+	padding:0.75%; 
+	width:22.5%; 
+	height:16.875%;
+}
+div.section img.left
+{
+	float:left; 
+	padding:0.75%; 
+	width:22.5%; 
+	height:16.875%;
+}
+div.section h3
+{
+	font-family:Anke;
+	color:white;
+	font-size:140%;
+}
+div.section img.leftie
+{
+	float:left; 
+	padding:0.75%; 	
+	width:16.875%; 
+	height:22.5%;
+}
+div.section img.rightie
+{
+	float:right; 
+	padding:0.75%; 
+	width:15.75%; 
+	height:21%;
+}
+div.section img#three
+{
+	float:left;
+	padding:0.75%;
+	width:15.75%;
+	height:21%;
+}
+div.section img#four
+{
+	float:right;
+	padding:0.75%;
+	width:15.75%;
+	height:21%;
+}
+div.section video#five
+{
+	width:64%;
+	height:48%;
+	border:1px solid white;
+}
+img:hover
+{
+	opacity:0.6;
+}
+div.section p
+{
+	font-size:100%;
+	color:white;
+}
+div.section img#hey
+{
+    	float:right; 
+	padding:0.75%; 
+	width:15.75%; 
+	height:21%;
+}
+* 
+{
+    	box-sizing: border-box;
+}
+body#back
+{
+    	background-image:url("fwork.gif");
+    	background-size:cover;
+	background-position:center;
+	margin:0.8%;
+} 
+img#img
+{
+	width:60%;
+    	height:45%;	
+	opacity:1.0;
+	border:5px solid white;
+	text-align:center;
+	
+}
+h2#head
+{
+	font-family:Anke;
+	color:white;
+	font-size:180%;
+	text-align:center;
+}  
+body#head
+{
+	background-image:url("cool.gif");
+    	background-size:cover;
+	background-position:center;
+	margin:0.8%;
+}
+div.section p#new
+{
+	background-color:black;
+}
+div.section iframe#five
+{
+	width:840px;
+	height:630px;
+	border:1px solid white;
+}
+div.clear
+{
+	clear:both;
+}
+div.section img.hello
+{
+	padding:1%; 
+	width:20%; 
+	height:15%;
+	background-color:black;
+	opacity:1.0;
+}
+div.section p#hi
+{
+	margin-left:10%;
+}
+div.section a.vig
+{
+	background-color:black;
+	text-decoration:none;
+}

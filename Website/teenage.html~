@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="styles1.css">
+		<title>Teenage</title>	
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<script src="java.js"></script>
+	</head>
+	<body>
+		<div class="header">
+			<h1 class="name">Vighnesh Chenthil Kumar</h1>
+		</div>
+		<div class="nav">
+			<ul>
+				<li><a href="index.html" target="_parent">Home</a></li>
+				<li><a href="early_life.html" target="_parent">Early Life</a></li>
+				<li><a href="teenage.html" target="_parent">Teenage</a></li>
+				<li><a href="interests.html" target="_parent">Interests</a></li>
+				<li><a href="gallery.html" target="_parent">Photo Gallery</a></li>
+				<li><a href="contact.html" target="_parent">Contact Me</a></li>
+			</ul>
+		</div><br>
+		<div class="section">
+			<h2>Teenage Years</h2>
+			<p><img src="vighnesh13.jpg" alt="This image cannot be displayed" title="At the Dubai International Airport" class="leftie"><img src="vighnesh12.JPG" alt="This image cannot be displayed" title="At the Mesaieed Sand Dunes" class="rightie"> <br><br><br><br>I shifted to Qatar in 2009 as my dad was employed by QatarGas. The days spent in Qatar would go on to shape my personality in the coming years. Qatar is where i spent the last few years of my childhood, entered teenage, met many wonderful people and made some unforgettable friends. I joined Birla Public School in 2009, in seventh grade. It was a wonderful experience being a part of BPS. I learnt a lot more than I ever had in life. This was where I first heard of Olympiads and other Benchmark Tests. I emerged as the school topper in Interntional Mathematics Olympiad (IMO) for 2 consecutive years.Although I spent just those 2 years in BPS, it will always hold a special place in my heart. It was during the winter of 2009 that I made my next international trip.
+			</p>
+			<div class="clear"></div><br><br><br>
+			<h3>Dubai</h3>
+			<p><img src="vighnesh14.jpg" alt="This image cannot be displayed" title="During Dubai Desert Safari" class="left"><img src="vighnesh15.jpg" alt="This image cannot be displayed" title="The Burj Khalifa" class="right"> <br>The entire experience of visiting Dubai was just magical. My visit also coincided with the Dubai Shopping Festival held in the Global Village, which displayed a rich diversity of commodities and activities from various parts of the world including India, Africa, Pakistan, Ethiopia etc. The main tourist attraction of Dubai is the Burj Khalifa, without any doubt, which is located in the vicinity of the eye-poppingly-amazing Dubai Mall. The tower is a man made wonder, which exudes splendour and power. Another attraction of Dubai is the Desert Safari which is a complete package of a desert cruise, desert buggying, rich Arab food and Belly dancing. Then, there are also the Atlantis, the Palm Jumeirah, and a water theme amusement park named Wild Wadi. Overall, Dubai left me gaping in wonder at its lavish lifestyle and its elegant structures. 
+			</p>
+			<div class="clear"></div><br><br><br>
+			<h3>Singapore and Malaysia</h3>
+			<p><img src="vighnesh19.jpg" alt="This image cannot be displayed" title="At the Malaysian Butterfly Park" class="left"><img src="vighnesh20.jpg" alt="This image cannot be displayed" title="Posing next to the Singa" class="right">During the summer vacations of 2012, I visited Singapore and Malaysia, along with my grandmother. Malaysia is a tropical country, and believe it or not, some places actually reminded me of my native place, Kerala. A major tourist attraction is definitely the Petronas Towers, a 450m high tower which served as the world's tallest structure from 1998-2004. Another attraction for devouts is the 100m tall Batu Caves, which also houses a 42m tall statue of the Hindu God Muruga. Then, there is also the exquisite hill station, <b>Genting</b>. In addition to casinos, hotels and other luxuries, Genting also houses an amazing amusement park. On the other hand, Singapore is a trade hub and a very developed country with the strictest cleanliness laws in the world. In contrast to the tropical climate of Malaysia, Singapore has a rather hot and humid climate. The world reknown Universal Studios is in Singapore, and is a rather classy and fun filled destination to take your kids to. The Sentosa Islands are another very popular tourist spot with resorts and beaches for families to chill out. I must also add that the Malaysian dish, Nasi Lemak, is quite delicious, and must be given a try by all foodies. Overall, the trip was mind blowing and quite memorable.
+			</p>
+			<div class="clear"></div><br><br><br><br>
+			<p><img src="vighnesh3.jpg" alt="This image cannot be displayed" title="Grade 10" id="three"><img src="vighnesh2.JPG" alt="This image cannot be displayed" title="Grade 12" id="four"><br>I shifted to DPS-Modern Indian School in 2011 because the school was offering FIITJEE as an integrated classroom program. My high school days in DPS transformed me into a new individual altogether. I used to be a very timid boy all my life, but my days in DPS made me street smart and self confident. Although FIITJEE was very strenous, the school life made it a very good experience. I learnt a lot about various aspects of life and made some amazing friends during my days in DPS. My first big academic achievement was when i scored a perfect CGPA of 10.0 in the Class 10<sup>th</sup> Board Examinations. I went on to score 91% in my Class 11<sup>th</sup> Annual Examinations, and subsequently a decent 95.6% in my Class 12<sup>th</sup> Board Examinations. Another major achievement during my high school days was scoring a perfect 2400 in the SAT Subject Tests. Having received offers from various universities, I decided to pursue Computer Science and Engineering in the International Institute of Information Technology, Hyderabad. IIIT-H has carved a niche for itself over the past 17 years, and in such a short period, has been ranked among the top universities of the country.
+			</p>
+			<div class="clear"></div>
+		</div><br><br><br><br><br><br>
+		<div class="footer">
+			<p>&copy; 2015 International Institute of Information Technology - Hyderabad. All rights reserved.
+			</p>
+		</div>
+	</body>
+</html>
